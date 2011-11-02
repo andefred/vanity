@@ -24,5 +24,5 @@ group :test do
   gem "webmock"
   gem "ruby-debug", :platforms => [:ruby_18]
   gem "ruby-debug19", :platforms => :mri_19
-  gem 'SystemTimer', :platforms => [:ruby_18]
+#  gem 'SystemTimer', :platforms => [:ruby_18]
 end
